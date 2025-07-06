@@ -1,0 +1,21 @@
+{
+  "name": "com.klukva.redkit.persistence",
+  "version": "0.1.0",
+  "displayName": "RedKit Persistence",
+  "description": "Universal persistence with storage, serialization, and migration for Unity, part of the RedKit family by Klukva.",
+  "unity": "2022.3",
+  "unityRelease": "58f1",
+  "keywords": [
+    "persistence",
+    "serialization",
+    "storage",
+    "redkit",
+    "klukva",
+    "unity"
+  ],
+  "author": {
+    "name": "Klukva",
+    "email": "spikethehedgehogdev@gmail.com",
+    "url": "https://github.com/spikethehedgehogdev"
+  }
+}
